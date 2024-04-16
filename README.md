@@ -7,9 +7,6 @@
 - <b>My full name<b/>: Hoang Nguyen Viet Nam
 - <b>My email<b/>: hoangngvietnam@gmail.com
 - <b>My number<b/>: 0853671591
-- I'm currently start with ReactJS
-- Tell me something related about front-end
-- And have fun
 
 ## ⌨️ Skills
 
